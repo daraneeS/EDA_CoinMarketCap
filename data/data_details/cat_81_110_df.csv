@@ -1,0 +1,525 @@
+,cat_id,cat_name,cat_title,cat_description,cat_num_tokens,cat_market_cap,coin_id,coin_name,coin_sym,date_added,platform_name,token_address,is_active
+0,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,2010,Cardano,ADA,2017-10-01T00:00:00.000Z,None,None,1
+1,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,1975,Chainlink,LINK,2017-09-20T00:00:00.000Z,Ethereum,0x514910771af9ca656af840dff83e8264ecf986ca,1
+2,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,2694,Nexo,NEXO,2018-05-01T00:00:00.000Z,Ethereum,0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206,1
+3,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,3992,COTI,COTI,2019-06-04T00:00:00.000Z,None,None,1
+4,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,7737,API3,API3,2020-11-21T00:00:00.000Z,Ethereum,0x0b38210ea11411557c13457D4dA7dC6ea731B88a,1
+5,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,1762,Ergo,ERG,2017-06-29T00:00:00.000Z,None,None,1
+6,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,13769,World Mobile Token,WMT,2021-11-02T08:55:10.000Z,Cardano,1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e,1
+7,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,7931,Bondly,BONDLY,2020-12-09T00:00:00.000Z,Ethereum,0x91dfbee3965baaee32784c2d546b7a0c62f268c9,1
+8,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,11365,CardSwap,CSWAP,2021-08-23T00:00:00.000Z,Ethereum,0x3b3f95938958a4029fa8b01873e2721b02950883,1
+9,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,12173,Revuto,REVU,2021-09-27T12:26:36.000Z,Cardano,94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c135864.REVU,1
+10,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,17275,MuesliSwap MILK,MILK,2022-01-14T01:02:09.000Z,Cardano,8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b,1
+11,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,9191,Occam.Fi,OCC,2021-04-09T00:00:00.000Z,Ethereum,0x2f109021afe75b949429fe30523ee7c0d5b27207,1
+12,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,11986,SundaeSwap,SUNDAE,2021-09-20T19:10:22.000Z,None,None,1
+13,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,10833,ADAX,ADAX,2021-07-11T00:00:00.000Z,Cardano,0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f41444158,1
+14,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,16240,Ravendex,RAVE,2021-12-20T02:06:11.000Z,Cardano,14a3455f71c435a04ea1fdb50a3ef4c1cab0e79fb1565627ac66a575,1
+15,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,9904,GeroWallet,GERO,2021-05-18T00:00:00.000Z,Ethereum,0x3431f91b3a388115f00c5ba9fdb899851d005fb5,1
+16,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,9991,Charli3,C3,2021-05-21T00:00:00.000Z,Ethereum,0xf1a91c7d44768070f711c68f33a7ca25c8d30268,1
+17,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,13397,MELD,MELD,2021-10-27T09:24:14.000Z,Cardano,6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d10.MELD,1
+18,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,9047,CARD.STARTER,CARDS,2021-03-31T00:00:00.000Z,Ethereum,0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9,1
+19,61213ce7c049672cb6ce7eb8,Cardano Ecosystem,Cardano Ecosystem,Cardano Ecosystem,24,41248747578.13,12769,Ardana,DANA,2021-10-15T06:02:25.000Z,Cardano,c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f,1
+20,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,1697,Basic Attention Token,BAT,2017-06-01T00:00:00.000Z,Ethereum,0x0d8775f648430679a709e98d2b0cb6250d2887ef,1
+21,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,1883,Adshares,ADS,2017-08-12T00:00:00.000Z,None,None,1
+22,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,1768,Ambire AdEx,ADX,2017-07-01T00:00:00.000Z,Ethereum,0xade00c28244d5ce17d72e40330b1c318cd12b7c3,1
+23,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2202,Oyster,PRL,2017-11-20T00:00:00.000Z,Ethereum,0x1844b21593262668b7248d0f57a220caaba46ab9,0
+24,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2267,Wabi,WABI,2017-12-12T00:00:00.000Z,Ethereum,0x286bda1413a2df81731d4930ce2f862a35a609fe,1
+25,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,8256,HollyGold,HGOLD,2021-01-13T00:00:00.000Z,Ethereum,0x0c93b616933b0cd03b201b29cd8a22681dd9e0d9,1
+26,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2501,adbank,ADB,2018-02-03T00:00:00.000Z,Ethereum,0x2baac9330cf9ac479d819195794d79ad0c7616e3,1
+27,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,3620,Atlas Protocol,ATP,2018-11-27T00:00:00.000Z,BNB Beacon Chain (BEP2),ATP-38C,1
+28,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2555,Sether,SETH,2018-03-01T00:00:00.000Z,Ethereum,0x78b039921e84e726eb72e7b1212bb35504c645ca,1
+29,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2275,ProChain,PRA,2017-12-13T00:00:00.000Z,Ethereum,0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01,0
+30,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2446,DATA,DTA,2018-01-22T00:00:00.000Z,Ethereum,0x69b148395ce0015c13e36bffbad63f49ef874e03,1
+31,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2258,Snovian.Space,SNOV,2017-12-08T00:00:00.000Z,Ethereum,0xbdc5bac39dbe132b1e030e898ae3830017d7d969,0
+32,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,1775,adToken,ADT,2017-07-02T00:00:00.000Z,Ethereum,0xd0d6d6c5fe4a677d343cc433536bb717bae167dd,0
+33,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,1787,Jetcoin,JET,2017-07-07T00:00:00.000Z,Ethereum,0x8727c112c712c4a03371ac87a74dd6ab104af768,1
+34,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2580,Leadcoin,LDC,2018-03-12T00:00:00.000Z,Ethereum,0x5102791ca02fc3595398400bfe0e33d7b6c82267,0
+35,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2646,AdHive,ADH,2018-04-17T00:00:00.000Z,Ethereum,0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31,0
+36,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2311,ACE (TokenStars),ACE,2017-12-26T00:00:00.000Z,Ethereum,0x06147110022b768ba8f99a8f385df11a151a9cc8,0
+37,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2560,EZToken,EZT,2018-03-05T00:00:00.000Z,Ethereum,0x5e6016ae7d7c49d347dcf834860b9f3ee282812b,0
+38,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2567,DATx,DATX,2018-03-08T00:00:00.000Z,Ethereum,0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab,1
+39,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2568,JET8,J8T,2018-03-08T00:00:00.000Z,Ethereum,0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4,0
+40,6051a80066fc1b42617d6d96,Marketing,Marketing,Marketing,23,1286968205.5299997,2358,Content and AD Network,CAN,2018-01-10T00:00:00.000Z,Ethereum,0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841,0
+41,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+42,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+43,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,1839,BNB,BNB,2017-07-25T00:00:00.000Z,None,None,1
+44,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,5426,Solana,SOL,2020-04-10T00:00:00.000Z,None,None,1
+45,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,4030,Algorand,ALGO,2019-06-20T00:00:00.000Z,None,None,1
+46,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,4157,THORChain,RUNE,2019-07-23T00:00:00.000Z,BNB Beacon Chain (BEP2),RUNE-B1A,1
+47,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,5665,Helium,HNT,2020-06-05T00:00:00.000Z,None,None,1
+48,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,6719,The Graph,GRT,2020-12-17T00:00:00.000Z,Ethereum,0xc944e90c64b2c07662a292be6244bdf05cda44a7,1
+49,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,2502,Huobi Token,HT,2018-02-03T00:00:00.000Z,Ethereum,0x6f259637dcd74c767781e37bc6133cd6a68aa161,1
+50,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,5632,Arweave,AR,2020-05-27T00:00:00.000Z,None,None,1
+51,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,5647,Kadena,KDA,2020-05-31T00:00:00.000Z,None,None,1
+52,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,7455,Audius,AUDIO,2020-10-20T00:00:00.000Z,Ethereum,0x18aaa7115705e8be94bffebde57af9bfc265b998,1
+53,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,3640,Livepeer,LPT,2018-12-19T00:00:00.000Z,Ethereum,0x58b6a8a3302369daec383334672404ee733ab239,1
+54,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,5690,Render Token,RNDR,2020-06-11T00:00:00.000Z,Ethereum,0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24,1
+55,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,5566,Keep Network,KEEP,2020-05-13T00:00:00.000Z,Ethereum,0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,1
+56,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,4948,Nervos Network,CKB,2019-11-19T00:00:00.000Z,None,None,1
+57,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,6950,Perpetual Protocol,PERP,2020-09-08T00:00:00.000Z,Ethereum,0xbc396689893d065f41bc2c6ecbee5e0085233447,1
+58,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,7232,Alpha Venture DAO,ALPHA,2020-09-29T00:00:00.000Z,BNB Smart Chain (BEP20),0xa1faa113cbe53436df28ff0aee54275c13b40975,1
+59,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,11307,Beta Finance,BETA,2021-08-18T00:00:00.000Z,Ethereum,0xbe1a001fe942f96eea22ba08783140b9dcc09d28,1
+60,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,1104,Augur,REP,2015-10-27T00:00:00.000Z,Ethereum,0x1985365e9f78359a9B6AD760e32412f4a445E862,1
+61,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,7617,saffron.finance,SFI,2020-11-09T00:00:00.000Z,Ethereum,0xb753428af26e81097e7fd17f40c88aaa3e04902c,1
+62,605e2e73d41eae1066535f80,Multicoin Capital Portfolio,Multicoin Capital Portfolio,Multicoin Capital Portfolio,23,1278171035964.9397,14463,Realy,REAL,2021-11-15T01:58:59.000Z,Solana,AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb,1
+63,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,11783,GameFi,GAFI,2021-09-09T09:16:09.000Z,BNB Smart Chain (BEP20),0x89Af13A10b32F1b2f8d1588f93027F69B6F4E27e,1
+64,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,8617,PolkaFoundry,PKF,2021-03-01T00:00:00.000Z,Ethereum,0x8b39b70e39aa811b69365398e0aace9bee238aeb,1
+65,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,9530,FaraLand,FARA,2021-05-03T00:00:00.000Z,BNB Smart Chain (BEP20),0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1,1
+66,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,11291,Kryptomon,KMON,2021-08-17T00:00:00.000Z,BNB Smart Chain (BEP20),0xc732b6586a93b6b7cf5fed3470808bc74998224d,1
+67,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,12878,BEMIL Coin,BEM,2021-11-25T14:05:02.000Z,BNB Smart Chain (BEP20),0x7B86b0836f3454e50C6F6a190cd692bB17da1928,1
+68,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,10953,Kaby Arena,KABY,2021-07-19T00:00:00.000Z,BNB Smart Chain (BEP20),0x02a40c048ee2607b5f5606e445cfc3633fb20b58,1
+69,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,11945,My Master War,MAT,2021-09-17T09:28:46.000Z,BNB Smart Chain (BEP20),0xf3147987a00d35eecc10c731269003ca093740ca,1
+70,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,12307,Warena,RENA,2021-10-05T00:39:36.000Z,BNB Smart Chain (BEP20),0xa9D75Cc3405F0450955050C520843f99Aff8749D,1
+71,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,12599,ASPO World,ASPO,2021-11-14T13:43:12.000Z,BNB Smart Chain (BEP20),0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e,1
+72,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,9346,NFTify,N1,2021-06-04T00:00:00.000Z,Ethereum,0xacbd826394189cf2623c6df98a18b41fc8ffc16d,1
+73,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,9906,Bunicorn,BUNI,2021-05-18T00:00:00.000Z,BNB Smart Chain (BEP20),0x0e7beec376099429b85639eb3abe7cf22694ed49,1
+74,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,11067,Step Hero,HERO,2021-08-16T00:00:00.000Z,BNB Smart Chain (BEP20),0xE8176d414560cFE1Bf82Fd73B986823B89E4F545,1
+75,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,12833,Mech Master,MECH,2021-10-25T16:10:39.000Z,BNB Smart Chain (BEP20),0xc7b7844494c516b840a7a4575ff3e60ff0f056a9,1
+76,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,10160,Swaperry,PERRY,2021-05-30T00:00:00.000Z,BNB Smart Chain (BEP20),0x9452D45d33490234B8C96f42342F1Be28c0FE097,1
+77,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,16091,MetaGods,MGOD,2021-12-16T12:00:55.000Z,BNB Smart Chain (BEP20),0x10A12969cB08a8d88D4BFB5d1FA317d41e0fdab3,1
+78,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,12053,Meta Spatial,SPAT,2021-11-05T14:51:34.000Z,BNB Smart Chain (BEP20),0x62cd26cb698FA8067D9c76f8ccb26922F6a86909,1
+79,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,19228,Vulcano,VULC,2022-03-31T03:35:35.000Z,BNB Smart Chain (BEP20),0x3810a078AA274Ea6d06a480588eFf8fE517220a4,1
+80,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,12119,Planet Sandbox,PSB,2021-10-06T01:54:44.000Z,BNB Smart Chain (BEP20),0x36bfBb1d5B3C9b336f3D64976599B6020cA805F1,1
+81,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,11947,HeroVerse,HER,2021-09-24T07:17:56.000Z,BNB Smart Chain (BEP20),0x6B9F6f911384886b2e622e406327085238F8A3C5,1
+82,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,17477,Dragon War,DRAW,2022-03-24T11:15:43.000Z,Solana,48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS,1
+83,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,14458,Kaby Gaming Token,KGT,2021-11-16T09:35:11.000Z,BNB Smart Chain (BEP20),0xa4e208c627f3adc60165c2a9fe79d73f4e8dd760,1
+84,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,11326,SoccerHub,SCH,2021-09-30T02:59:23.000Z,BNB Smart Chain (BEP20),0xe485b2780c3822a62da88857fd6481018ea8cb95,1
+85,6113ca776ea42668462d34de,Icetea Labs,Icetea Labs,Icetea Labs,23,74540854.44999999,15529,Space Crypto,SPG,2021-12-22T16:57:25.000Z,BNB Smart Chain (BEP20),0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1,1
+86,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+87,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+88,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,5805,Avalanche,AVAX,2020-07-13T00:00:00.000Z,None,None,1
+89,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,6636,Polkadot,DOT,2020-08-19T00:00:00.000Z,None,None,1
+90,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,3794,Cosmos,ATOM,2019-03-14T00:00:00.000Z,None,None,1
+91,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,8916,Internet Computer,ICP,2021-03-23T00:00:00.000Z,None,None,1
+92,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,2280,Filecoin,FIL,2017-12-13T00:00:00.000Z,None,None,1
+93,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,2011,Tezos,XTZ,2017-10-06T00:00:00.000Z,None,None,1
+94,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,1518,Maker,MKR,2017-01-29T00:00:00.000Z,Ethereum,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,1
+95,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,5567,Celo,CELO,2020-05-22T00:00:00.000Z,None,None,1
+96,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,2469,Zilliqa,ZIL,2018-01-25T00:00:00.000Z,None,None,1
+97,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,8646,Mina,MINA,2021-03-02T00:00:00.000Z,None,None,1
+98,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,5692,Compound,COMP,2020-06-16T00:00:00.000Z,Ethereum,0xc00e94cb662c3520282e6f5717214004a7f26888,1
+99,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,7653,Oasis Network,ROSE,2020-11-12T00:00:00.000Z,Ethereum,0x26B80FBfC01b71495f477d5237071242e0d959d7,1
+100,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,5864,yearn.finance,YFI,2020-07-18T00:00:00.000Z,Ethereum,0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e,1
+101,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,1896,0x,ZRX,2017-08-16T00:00:00.000Z,Ethereum,0xe41d2489571d322189246dafa5ebde1f4699f498,1
+102,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,5566,Keep Network,KEEP,2020-05-13T00:00:00.000Z,Ethereum,0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,1
+103,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,4948,Nervos Network,CKB,2019-11-19T00:00:00.000Z,None,None,1
+104,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,4761,NuCypher,NU,2019-10-07T00:00:00.000Z,Ethereum,0x4fe83213d56308330ec302a8bd641f1d0113a4cc,1
+105,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,5026,Orchid,OXT,2019-12-16T00:00:00.000Z,Ethereum,0x4575f41308EC1483f3d399aa9a2826d74Da13Deb,1
+106,604f2775ebccdd50cd175fdb,Polychain Capital Portfolio,Polychain Capital Portfolio,Polychain Capital Portfolio,22,1222881824705.1997,1993,Kin,KIN,2017-09-27T00:00:00.000Z,None,None,1
+107,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+108,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+109,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,6636,Polkadot,DOT,2020-08-19T00:00:00.000Z,None,None,1
+110,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,7083,Uniswap,UNI,2020-09-17T00:00:00.000Z,Ethereum,0x1f9840a85d5af5bf1d1762f925bdaddc4201f984,1
+111,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,7278,Aave,AAVE,2020-10-02T00:00:00.000Z,Ethereum,0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9,1
+112,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,5692,Compound,COMP,2020-06-16T00:00:00.000Z,Ethereum,0xc00e94cb662c3520282e6f5717214004a7f26888,1
+113,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,9444,Kyber Network Crystal v2,KNC,2021-04-26T00:00:00.000Z,Ethereum,0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202,1
+114,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,5864,yearn.finance,YFI,2020-07-18T00:00:00.000Z,Ethereum,0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e,1
+115,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,2586,Synthetix,SNX,2018-03-14T00:00:00.000Z,Ethereum,0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f,1
+116,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,6950,Perpetual Protocol,PERP,2020-09-08T00:00:00.000Z,Ethereum,0xbc396689893d065f41bc2c6ecbee5e0085233447,1
+117,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,3748,Hxro,HXRO,2019-02-15T00:00:00.000Z,Ethereum,0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3,1
+118,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,5728,Balancer,BAL,2020-06-24T00:00:00.000Z,Ethereum,0xba100000625a3754423978a60c9317c58a424e3D,1
+119,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,7678,KeeperDAO,ROOK,2020-11-15T00:00:00.000Z,Ethereum,0xfa5047c9c78b8877af97bdcb85db743fd7313d4a,1
+120,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,2620,Carbon,SWTH,2018-03-31T00:00:00.000Z,Ethereum,0xb4371da53140417cbb3362055374b10d97e420bb,1
+121,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,7094,dHedge DAO,DHT,2020-09-17T00:00:00.000Z,Ethereum,0xca1207647ff814039530d7d35df0e1dd2e91fa84,1
+122,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,5748,mStable Governance Token: Meta (MTA),MTA,2020-06-28T00:00:00.000Z,Ethereum,0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2,1
+123,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,12236,Jet Protocol,JET,2021-10-01T04:13:29.000Z,None,None,1
+124,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,14463,Realy,REAL,2021-11-15T01:58:59.000Z,Solana,AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb,1
+125,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,12769,Ardana,DANA,2021-10-15T06:02:25.000Z,Cardano,c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f,1
+126,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,1982,Kyber Network Crystal Legacy,KNCL,2017-09-24T00:00:00.000Z,Ethereum,0xdd974d5c2e2928dea5f71b9825b8b646686bd200,1
+127,604f2774ebccdd50cd175fda,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,Three Arrows Capital Portfolio,22,1185825701789.7698,7308,Compound Uni,CUNI,2020-10-05T00:00:00.000Z,Ethereum,0x35a18000230da775cac24873d00ff85bccded550,1
+128,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,6535,NEAR Protocol,NEAR,2020-08-11T00:00:00.000Z,None,None,1
+129,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,1518,Maker,MKR,2017-01-29T00:00:00.000Z,Ethereum,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,1
+130,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,6719,The Graph,GRT,2020-12-17T00:00:00.000Z,Ethereum,0xc944e90c64b2c07662a292be6244bdf05cda44a7,1
+131,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,1042,Siacoin,SC,2015-08-26T00:00:00.000Z,None,None,1
+132,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,2566,Ontology,ONT,2018-03-08T00:00:00.000Z,None,None,1
+133,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,4679,Band Protocol,BAND,2019-09-18T00:00:00.000Z,Ethereum,0xba11d00c5f74255f56a5e366f4f77f5a186d7f55,1
+134,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,5728,Balancer,BAL,2020-06-24T00:00:00.000Z,Ethereum,0xba100000625a3754423978a60c9317c58a424e3D,1
+135,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,7411,Covalent,CQT,2020-10-14T00:00:00.000Z,Ethereum,0xD417144312DbF50465b1C641d016962017Ef6240,1
+136,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,9421,Ampleforth Governance Token,FORTH,2021-04-21T00:00:00.000Z,Ethereum,0x77fba179c79de5b7653f68b5039af940ada60ce0,1
+137,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,5338,Somnium Space Cubes,CUBE,2020-03-18T00:00:00.000Z,Ethereum,0xdf801468a808a32656d2ed2d2d80b72a129739f4,1
+138,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,6138,DIA,DIA,2020-08-04T00:00:00.000Z,Ethereum,0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419,1
+139,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,16547,Trisolaris,TRI,2021-12-28T08:34:39.000Z,None,None,1
+140,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,18755,Meta Pool,META,2022-03-12T16:27:41.000Z,Aurora,0xc21ff01229e982d7c8b8691163b0a3cb8f357453,1
+141,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,12043,Octopus Network,OCT,2021-09-22T03:05:06.000Z,Ethereum,0xf5cfbc74057c610c8ef151a439252680ac68c6dc,1
+142,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,13018,Paras,PARAS,2021-12-20T10:30:00.000Z,None,None,1
+143,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,11808,Wrapped Near,WNEAR,2021-09-10T18:54:18.000Z,None,None,1
+144,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,12728,Pulse Predictions Market,PULSE,2021-10-14T09:31:45.000Z,Ethereum,0x52a047ee205701895ee06a375492490ec9c597ce,1
+145,616e4420691eaf08be21fe7b,Near Protocol Ecosystem,Near Protocol Ecosystem,Near Protocol Ecosystem,21,16332527508.819998,18754,Staked NEAR,STNEAR,2022-03-12T16:08:13.000Z,Aurora,0x07f9f7f963c5cd2bbffd30ccfb964be114332e30,1
+146,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+147,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+148,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1321,Ethereum Classic,ETC,2016-07-24T00:00:00.000Z,None,None,1
+149,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1966,Decentraland,MANA,2017-09-17T00:00:00.000Z,Ethereum,0x0f5d2fb29fb7d3cfee444a200298f468908cc942,1
+150,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,4642,Hedera,HBAR,2019-09-17T00:00:00.000Z,None,None,1
+151,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,2280,Filecoin,FIL,2017-12-13T00:00:00.000Z,None,None,1
+152,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1437,Zcash,ZEC,2016-10-29T00:00:00.000Z,None,None,1
+153,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,4558,Flow,FLOW,2021-01-27T00:00:00.000Z,None,None,1
+154,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,6719,The Graph,GRT,2020-12-17T00:00:00.000Z,Ethereum,0xc944e90c64b2c07662a292be6244bdf05cda44a7,1
+155,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,4847,Stacks,STX,2019-10-28T00:00:00.000Z,None,None,1
+156,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1697,Basic Attention Token,BAT,2017-06-01T00:00:00.000Z,Ethereum,0x0d8775f648430679a709e98d2b0cb6250d2887ef,1
+157,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,3640,Livepeer,LPT,2018-12-19T00:00:00.000Z,Ethereum,0x58b6a8a3302369daec383334672404ee733ab239,1
+158,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1698,Horizen,ZEN,2017-06-01T00:00:00.000Z,None,None,1
+159,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,3911,Ocean Protocol,OCEAN,2019-05-06T00:00:00.000Z,Ethereum,0x967da4048cd07ab37855c090aaf366e4ce1b9f48,1
+160,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1816,Civic,CVC,2017-07-17T00:00:00.000Z,Ethereum,0x41e5560054824ea6b0732e656e3ad64e20e94e45,1
+161,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,3964,Reserve Rights,RSR,2019-05-24T00:00:00.000Z,Ethereum,0x320623b8e4ff03373931769a31fc52a4e78b5d70,1
+162,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,7737,API3,API3,2020-11-21T00:00:00.000Z,Ethereum,0x0b38210ea11411557c13457D4dA7dC6ea731B88a,1
+163,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,15478,Decentral Games,DG,2021-12-02T04:24:32.000Z,Ethereum,0x4b520c812e8430659fc9f12f6d0c39026c83588d,1
+164,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,5221,Handshake,HNS,2020-02-22T00:00:00.000Z,None,None,1
+165,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,1923,Tierion,TNT,2017-08-27T00:00:00.000Z,None,None,0
+166,605e2a98d41eae1066535f74,DCG Portfolio,DCG Portfolio,DCG Portfolio,21,1183066615613.84,15510,Decentral Games Governance (xDG),xDG,2021-12-04T04:38:41.000Z,Ethereum,0x4f81c790581b240a5c948afd173620ecc8c71c8d,1
+167,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,2856,CEEK VR,CEEK,2018-06-11T00:00:00.000Z,Ethereum,0xb056c38f6b7dc4064367403e26424cd2c60655e1,1
+168,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,10778,Metahero,HERO,2021-07-07T00:00:00.000Z,BNB Smart Chain (BEP20),0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13,1
+169,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,9674,Wilder World,WILD,2021-05-10T00:00:00.000Z,Ethereum,0x2a3bff78b79a009976eea096a51a948a3dc00e34,1
+170,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,5338,Somnium Space Cubes,CUBE,2020-03-18T00:00:00.000Z,Ethereum,0xdf801468a808a32656d2ed2d2d80b72a129739f4,1
+171,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,11232,Highstreet,HIGH,2021-08-12T00:00:00.000Z,Ethereum,0x71Ab77b7dbB4fa7e017BC15090b2163221420282,1
+172,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,11423,vEmpire DDAO,VEMP,2021-08-26T22:25:37.000Z,Ethereum,0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec,1
+173,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,9200,Revomon,REVO,2021-04-12T00:00:00.000Z,BNB Smart Chain (BEP20),0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409,1
+174,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,9218,Mist,MIST,2021-04-16T00:00:00.000Z,BNB Smart Chain (BEP20),0x68E374F856bF25468D365E539b700b648Bf94B67,1
+175,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,6209,Spheroid Universe,SPH,2020-08-05T00:00:00.000Z,Ethereum,0xa0cf46eb152656c7090e769916eb44a138aaa406,1
+176,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,11512,Kalao,KLO,2021-08-31T08:12:51.000Z,Avalanche C-Chain,0xb27c8941a7Df8958A1778c0259f76D1F8B711C35,1
+177,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,2248,Cappasity,CAPP,2017-12-06T00:00:00.000Z,Ethereum,0x11613b1f840bb5A40F8866d857e24DA126B79D73,1
+178,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,9905,Rune,RUNE,2021-05-18T00:00:00.000Z,BNB Smart Chain (BEP20),0xa9776b590bfc2f956711b3419910a5ec1f63153e,1
+179,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,1603,Databits,DTB,2017-03-30T00:00:00.000Z,None,None,0
+180,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,1988,Lampix,PIX,2017-09-25T00:00:00.000Z,Ethereum,0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15,0
+181,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,4552,Aircoins,AIRX,2021-03-24T00:00:00.000Z,Ethereum,0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F,1
+182,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,12053,Meta Spatial,SPAT,2021-11-05T14:51:34.000Z,BNB Smart Chain (BEP20),0x62cd26cb698FA8067D9c76f8ccb26922F6a86909,1
+183,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,8144,OVR,OVR,2020-12-30T00:00:00.000Z,Ethereum,0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697,1
+184,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,16752,Vault Hill City,VHC,2022-01-03T04:27:59.000Z,Polygon,0x51b5619F5180e333d18b6310C8D540AEa43a0371,1
+185,6051a81866fc1b42617d6db5,VR/AR,VR/AR,VR/AR,20,816827804.4899998,13571,ALL.ART protocol,AART,2021-12-28T10:44:58.000Z,Solana,F3nefJBcejYbtdREjui1T9DPh5dBgpkKq7u2GAAMXs5B,1
+186,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,2776,Travala.com,AVA,2018-05-28T00:00:00.000Z,Ethereum,0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0,1
+187,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,11083,TripCandy,CANDY,2021-07-28T00:00:00.000Z,BNB Smart Chain (BEP20),0x639AD7c49EC616a64e074c21a58608C0d843A8a3,1
+188,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,4709,XcelToken Plus,XLAB,2019-09-27T00:00:00.000Z,Ethereum,0x8c4e7f814d40f8929f9112c5d09016f923d34472,1
+189,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,13045,Heron Asia,HERON,2021-10-23T12:39:15.000Z,BNB Smart Chain (BEP20),0x90451265fd0598e088e42c1768d6211f0978954a,1
+190,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,5641,BackPacker Coin,BPC,2020-05-28T00:00:00.000Z,None,None,1
+191,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,3261,EvenCoin,EVN,2018-09-10T00:00:00.000Z,Ethereum,0x68909e586eeac8f47315e84b4c9788dd54ef65bb,1
+192,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,3604,SkyHub Coin,SHB,2018-11-12T00:00:00.000Z,None,None,1
+193,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,3644,TravelNote,TVNT,2018-12-26T00:00:00.000Z,Ethereum,0x5635ddeabf9cdda686995fe90beb5411831563fc,1
+194,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,5236,Kemacoin,KEMA,2020-02-15T00:00:00.000Z,None,None,1
+195,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,4510,Mchain,MAR,2019-09-10T00:00:00.000Z,None,None,1
+196,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,4881,Guider,GDR,2019-11-28T00:00:00.000Z,Ethereum,0x874d4c9b980f1a13dd44cbcdb912e24ef0671ed0,1
+197,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,3927,Atlas Token,ATLS,2019-05-09T00:00:00.000Z,Ethereum,0xd36e9f8f194a47b10af16c7656a68eba1dfe88e4,0
+198,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,7397,Tavittcoin,TAVITT,2020-10-14T00:00:00.000Z,Ethereum,0xdd690d8824c00c84d64606ffb12640e932c1af56,0
+199,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,3925,Tratok,TRAT,2019-05-07T00:00:00.000Z,Ethereum,0xe225aca29524bb65fd82c79a9602f3b4f9c6fe3f,1
+200,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,6697,TriipMiles,TIIM,2020-08-24T00:00:00.000Z,BNB Smart Chain (BEP20),0x3da4f9e86deef7c50a8b167493f26e894edcd7d5,1
+201,6053dde66be1bf5c15e865eb,Tourism,Tourism,Tourism,20,75524245.44,2287,LockTrip,LOC,2017-12-17T00:00:00.000Z,Ethereum,0x5e3346444010135322268a4630d2ed5f8d09446c,1
+202,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+203,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,4172,Terra,LUNA,2019-07-26T00:00:00.000Z,None,None,1
+204,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,6636,Polkadot,DOT,2020-08-19T00:00:00.000Z,None,None,1
+205,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,3794,Cosmos,ATOM,2019-03-14T00:00:00.000Z,None,None,1
+206,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,2280,Filecoin,FIL,2017-12-13T00:00:00.000Z,None,None,1
+207,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,1437,Zcash,ZEC,2016-10-29T00:00:00.000Z,None,None,1
+208,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,4847,Stacks,STX,2019-10-28T00:00:00.000Z,None,None,1
+209,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,3945,Harmony,ONE,2019-06-01T00:00:00.000Z,None,None,1
+210,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,2777,IoTeX,IOTX,2018-05-25T00:00:00.000Z,None,None,1
+211,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,4846,Kava,KAVA,2019-10-25T00:00:00.000Z,Ethereum,0x0C356B7fD36a5357E5A017EF11887ba100C9AB76,1
+212,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,5691,SKALE Network,SKL,2020-06-12T00:00:00.000Z,Ethereum,0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7,1
+213,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,5899,Casper,CSPR,2020-07-21T00:00:00.000Z,None,None,1
+214,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,4948,Nervos Network,CKB,2019-11-19T00:00:00.000Z,None,None,1
+215,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,1923,Tierion,TNT,2017-08-27T00:00:00.000Z,None,None,0
+216,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,5274,Edgeware,EDG,2020-03-09T00:00:00.000Z,None,None,1
+217,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,17917,RSS3,RSS3,2022-02-07T10:03:56.000Z,Ethereum,0xc98d64da73a6616c42117b582e832812e7b8d57f,1
+218,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,1087,Factom,FCT,2015-10-06T00:00:00.000Z,None,None,1
+219,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,2096,Ripio Credit Network,RCN,2017-10-26T00:00:00.000Z,Ethereum,0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6,1
+220,605e2befd41eae1066535f78,Hashkey Capital Portfolio,Hashkey Capital Portfolio,Hashkey Capital Portfolio,20,440560293508.75006,1596,Edgeless,EDG,2017-03-30T00:00:00.000Z,Ethereum,0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c,1
+221,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,7455,Audius,AUDIO,2020-10-20T00:00:00.000Z,Ethereum,0x18aaa7115705e8be94bffebde57af9bfc265b998,1
+222,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,10409,Opulous,OPUL,2021-06-11T00:00:00.000Z,Ethereum,0x80d55c03180349fff4a229102f62328220a96444,1
+223,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,2012,Voise,VOISE,2017-10-02T00:00:00.000Z,Ethereum,0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3,0
+224,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,2019,Viberate,VIB,2017-10-06T00:00:00.000Z,Ethereum,0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724,1
+225,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,11521,Rhythm,RHYTHM,2021-08-31T17:34:19.000Z,BNB Smart Chain (BEP20),0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb,1
+226,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,9053,UREEQA,URQA,2021-03-31T00:00:00.000Z,Ethereum,0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136,1
+227,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,2384,Vezt,VZT,2018-01-12T00:00:00.000Z,None,None,0
+228,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,948,AudioCoin,ADC,2015-06-05T00:00:00.000Z,None,None,1
+229,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,8905,BitSong,BTSG,2021-03-21T00:00:00.000Z,Ethereum,0x05079687d35b93538cbd59fe5596380cae9054a9,1
+230,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,11420,Tune.FM,JAM,2021-08-26T16:25:17.000Z,None,None,1
+231,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,8358,Potentiam,PTM,2021-01-29T00:00:00.000Z,Ethereum,0x7c32DB0645A259FaE61353c1f891151A2e7f8c1e,1
+232,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,18551,Melos Studio,MELOS,2022-03-03T13:30:20.000Z,Ethereum,0x1afb69dbc9f54d08dab1bd3436f8da1af819e647,1
+233,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,8150,Utopia Genesis Foundation,UOP,2020-12-30T00:00:00.000Z,Ethereum,0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f,1
+234,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,5130,K-Tune,KTT,2021-02-10T00:00:00.000Z,Ethereum,0x14cc8dfaf2258e1b8b2869300dba1b734dc0fe43,1
+235,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,3993,Emanate,EMT,2019-06-05T00:00:00.000Z,EOS,emanateoneos,1
+236,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,9920,RUSH COIN,RUSH,2021-05-18T00:00:00.000Z,Ethereum,0x382A1667C9062F0621362F49076Ef6e4fE4C9eC7,1
+237,6051a82666fc1b42617d6dc8,Music,Music,Music,20,723980812.5,6804,MiraQle,MQL,2020-08-31T00:00:00.000Z,Ethereum,0x428dc22668e6f3468273634067e5545ed5417a3e,1
+238,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,5268,Energy Web Token,EWT,2020-03-28T00:00:00.000Z,None,None,1
+239,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,7882,Efforce,WOZX,2020-12-07T00:00:00.000Z,Ethereum,0x34950ff2b487d9e5282c5ab342d08a2f712eb79f,1
+240,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,2134,Grid+,GRID,2017-11-01T00:00:00.000Z,Ethereum,0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd,1
+241,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,2533,Restart Energy MWAT,MWAT,2018-02-17T00:00:00.000Z,Ethereum,0x6425c6be902d692ae2db752b3c268afadb099d3b,0
+242,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,2573,Electrify.Asia,ELEC,2018-03-09T00:00:00.000Z,Ethereum,0xd49ff13661451313ca1553fd6954bd1d9b6e02b9,1
+243,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,2330,Pylon Network,PYLNT,2017-12-31T00:00:00.000Z,Ethereum,0xd8924385cd46e6af6f377871c732bde2f8e9dd18,0
+244,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,2215,Energo,TSL,2017-11-21T00:00:00.000Z,None,None,1
+245,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,2225,Accelerator Network,ACC,2017-11-24T00:00:00.000Z,Ethereum,0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2,0
+246,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,6978,Candela Coin,CLA,2020-09-09T00:00:00.000Z,Ethereum,0xF7269a10E85d4aa8282529516cf86847748Da2Bf,1
+247,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,3325,Robotina,ROX,2018-09-21T00:00:00.000Z,Ethereum,0x574f84108a98c575794f75483d801d1d5dc861a5,1
+248,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,12121,Electric Vehicle Direct Currency,EVDC,2021-09-24T08:24:31.000Z,BNB Smart Chain (BEP20),0xC3B4C4eF3fE02aD91cB57efda593ed07A9278cc0,1
+249,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,10035,Teslafan,TESLF,2021-05-24T00:00:00.000Z,Ethereum,0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461,1
+250,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,12423,Litherium,LITH,2021-10-07T02:34:46.000Z,BNB Smart Chain (BEP20),0x5b180109332b079c44447F52A8aDad5B1Cd9dcfd,1
+251,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,12375,ECHO TECH COIN,ECOT,2021-10-06T07:12:28.000Z,BNB Smart Chain (BEP20),0x7cfffc84b2ae51bbcb6fdf90bed564a1543598c1,1
+252,6051a80666fc1b42617d6d9e,Energy,Energy,Energy,19,288876850.3,8388,REDi,REDI,2021-02-04T00:00:00.000Z,Ethereum,0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab,0
+253,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2303,MediBloc,MED,2017-12-22T00:00:00.000Z,None,None,1
+254,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,3724,SOLVE,SOLVE,2019-02-04T00:00:00.000Z,Ethereum,0x446c9033e7516d820cc9a2ce2d0b7328b579406f,1
+255,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2845,[deprecated] MediBloc [ERC20],MEDX,2018-06-06T00:00:00.000Z,Ethereum,0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7,0
+256,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,1876,Dentacoin,DCN,2017-08-11T00:00:00.000Z,Ethereum,0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6,1
+257,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,12315,DOSE,DOSE,2021-10-05T02:31:00.000Z,Ethereum,0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515,1
+258,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,1588,Tokes,TKS,2017-03-26T00:00:00.000Z,None,None,0
+259,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2497,Medicalchain,MTN,2018-02-07T00:00:00.000Z,Ethereum,0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3,1
+260,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2274,MediShares,MDS,2017-12-13T00:00:00.000Z,Ethereum,0x66186008C1050627F979d464eABb258860563dbE,1
+261,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,1898,Smoke,SMOKE,2017-08-17T00:00:00.000Z,None,None,0
+262,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,1708,Patientory,PTOY,2017-06-06T00:00:00.000Z,Ethereum,0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06,1
+263,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,606,FoldingCoin,FLDC,2014-09-16T00:00:00.000Z,None,None,0
+264,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2094,Paragon,PRG,2017-10-26T00:00:00.000Z,Ethereum,0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D,0
+265,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2357,AI Doctor,AIDOC,2018-01-10T00:00:00.000Z,Ethereum,0x584b44853680ee34a0f337b712a8f66d816df151,1
+266,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,2208,EncrypGen,DNA,2017-11-20T00:00:00.000Z,Ethereum,0xef6344de1fcfC5F48c30234C16c1389e8CdC572C,1
+267,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,6237,MDsquare,TMED,2020-08-06T00:00:00.000Z,Ethereum,0xd32641191578ea9b208125ddd4ec5e7b84fcab4c,1
+268,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,5940,ZOM,ZOM,2020-08-11T00:00:00.000Z,Ethereum,0x5091aed52ad421969254e48d29aa1d1807e1870b,0
+269,6051a80b66fc1b42617d6da4,Health,Health,Health,19,294473786.34,9414,Babytoken,BABY,2021-04-21T00:00:00.000Z,None,None,1
+270,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,3077,VeChain,VET,2017-08-22T00:00:00.000Z,None,None,1
+271,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2467,OriginTrail,TRAC,2018-01-25T00:00:00.000Z,Ethereum,0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f,1
+272,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,1925,Waltonchain,WTC,2017-08-27T00:00:00.000Z,Ethereum,0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74,1
+273,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,1789,Populous,PPT,2017-07-10T00:00:00.000Z,Ethereum,0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a,1
+274,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2578,TE-FOOD,TONE,2018-03-10T00:00:00.000Z,Ethereum,0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4,1
+275,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,8216,Electra Protocol,XEP,2021-01-08T00:00:00.000Z,None,None,1
+276,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2267,Wabi,WABI,2017-12-12T00:00:00.000Z,Ethereum,0x286bda1413a2df81731d4930ce2f862a35a609fe,1
+277,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2081,Ambrosus,AMB,2017-10-23T00:00:00.000Z,None,None,1
+278,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2658,Smart MFG,MFG,2018-04-20T00:00:00.000Z,Ethereum,0x6710c63432a2de02954fc0f851db07146a6c0312,1
+279,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,6283,Blocery,BLY,2020-08-07T00:00:00.000Z,Ethereum,0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d,1
+280,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,6194,Geeq,GEEQ,2020-08-04T00:00:00.000Z,Ethereum,0x6b9f031d718dded0d681c20cb754f97b3bb81b78,1
+281,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2480,HalalChain,HLC,2018-01-29T00:00:00.000Z,Ethereum,0x58c69ed6cd6887c0225d1fccecc055127843c69b,0
+282,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,1782,Ecobit,ECOB,2017-07-05T00:00:00.000Z,None,None,0
+283,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2579,ShipChain,SHIP,2018-03-10T00:00:00.000Z,Ethereum,0xe25b0bba01dc5630312b6a21927e578061a13f55,1
+284,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,2445,Block Array,ARY,2018-01-23T00:00:00.000Z,Ethereum,0xa5f8fc0921880cb7342368bd128eb8050442b1a1,0
+285,6051a81766fc1b42617d6db3,Logistics,Logistics,Logistics,18,4301070718.910001,5807,Release Project,REL,2020-07-03T00:00:00.000Z,Ethereum,0x61bfc979ea8160ede9b862798b7833a97bafa02a,1
+286,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+287,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+288,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,4172,Terra,LUNA,2019-07-26T00:00:00.000Z,None,None,1
+289,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,2416,Theta Network,THETA,2018-01-17T00:00:00.000Z,None,None,1
+290,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,4847,Stacks,STX,2019-10-28T00:00:00.000Z,None,None,1
+291,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,7653,Oasis Network,ROSE,2020-11-12T00:00:00.000Z,Ethereum,0x26B80FBfC01b71495f477d5237071242e0d959d7,1
+292,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,2405,IOST,IOST,2018-01-16T00:00:00.000Z,None,None,1
+293,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,2566,Ontology,ONT,2018-03-08T00:00:00.000Z,None,None,1
+294,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,2539,Ren,REN,2018-02-21T00:00:00.000Z,Ethereum,0x408e41876cccdc0f92210600ef50372656052a38,1
+295,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,4948,Nervos Network,CKB,2019-11-19T00:00:00.000Z,None,None,1
+296,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,7334,Conflux,CFX,2020-11-11T00:00:00.000Z,None,None,1
+297,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,2299,aelf,ELF,2017-12-21T00:00:00.000Z,Ethereum,0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e,1
+298,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,3930,ThunderCore,TT,2019-05-10T00:00:00.000Z,None,None,1
+299,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,10421,Torum,XTM,2021-06-14T00:00:00.000Z,Ethereum,0xcd1faff6e578fa5cac469d2418c95671ba1a62fe,1
+300,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,17917,RSS3,RSS3,2022-02-07T10:03:56.000Z,Ethereum,0xc98d64da73a6616c42117b582e832812e7b8d57f,1
+301,605e2c4bd41eae1066535f7a,Huobi Capital Portfolio,Huobi Capital Portfolio,Huobi Capital Portfolio,18,1194421889543.8801,12653,ROCO FINANCE,ROCO,2021-10-12T09:37:16.000Z,Avalanche C-Chain,0xb2a85C5ECea99187A977aC34303b80AcbDdFa208,1
+302,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+303,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+304,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,6636,Polkadot,DOT,2020-08-19T00:00:00.000Z,None,None,1
+305,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,6535,NEAR Protocol,NEAR,2020-08-11T00:00:00.000Z,None,None,1
+306,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,1966,Decentraland,MANA,2017-09-17T00:00:00.000Z,Ethereum,0x0f5d2fb29fb7d3cfee444a200298f468908cc942,1
+307,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,6719,The Graph,GRT,2020-12-17T00:00:00.000Z,Ethereum,0xc944e90c64b2c07662a292be6244bdf05cda44a7,1
+308,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,4847,Stacks,STX,2019-10-28T00:00:00.000Z,None,None,1
+309,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,8104,1inch Network,1INCH,2020-12-25T00:00:00.000Z,Ethereum,0x111111111117dc0aa78b770fa6a738034120c302,1
+310,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,1896,0x,ZRX,2017-08-16T00:00:00.000Z,Ethereum,0xe41d2489571d322189246dafa5ebde1f4699f498,1
+311,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,5566,Keep Network,KEEP,2020-05-13T00:00:00.000Z,Ethereum,0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,1
+312,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,3911,Ocean Protocol,OCEAN,2019-05-06T00:00:00.000Z,Ethereum,0x967da4048cd07ab37855c090aaf366e4ce1b9f48,1
+313,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,1759,Status,SNT,2017-06-28T00:00:00.000Z,Ethereum,0x744d70fdbe2ba4cf95131626614a1763df805b9e,1
+314,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,5026,Orchid,OXT,2019-12-16T00:00:00.000Z,Ethereum,0x4575f41308EC1483f3d399aa9a2826d74Da13Deb,1
+315,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,6843,Radicle,RAD,2020-09-01T00:00:00.000Z,None,None,1
+316,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,2143,Streamr,DATA,2017-11-03T00:00:00.000Z,Ethereum,0x8f693ca8d21b157107184d29d398a8d082b38b76,1
+317,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,17917,RSS3,RSS3,2022-02-07T10:03:56.000Z,Ethereum,0xc98d64da73a6616c42117b582e832812e7b8d57f,1
+318,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,2161,Raiden Network Token,RDN,2017-11-08T00:00:00.000Z,Ethereum,0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6,1
+319,605e2b2c6507f27280c3897e,Fabric Ventures Portfolio,Fabric Ventures Portfolio,Fabric Ventures Portfolio,18,1195485118626.66,2340,Bloom,BLT,2018-01-04T00:00:00.000Z,Ethereum,0x107c4504cd79c5d2696ea0030a8dd4e92601b82e,0
+320,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2566,Ontology,ONT,2018-03-08T00:00:00.000Z,None,None,1
+321,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,1816,Civic,CVC,2017-07-17T00:00:00.000Z,Ethereum,0x41e5560054824ea6b0732e656e3ad64e20e94e45,1
+322,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,5268,Energy Web Token,EWT,2020-03-28T00:00:00.000Z,None,None,1
+323,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,3418,Metadium,META,2018-10-09T00:00:00.000Z,None,None,1
+324,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,6830,KILT Protocol,KILT,2021-11-25T00:52:03.000Z,None,None,1
+325,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2398,SelfKey,KEY,2018-01-15T00:00:00.000Z,Ethereum,0x4cc19356f2d37338b9802aa8e8fc58b0373296e7,1
+326,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,8917,Shyft Network,SHFT,2021-03-23T00:00:00.000Z,None,None,1
+327,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,5836,Idena,IDNA,2020-08-11T00:00:00.000Z,None,None,1
+328,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,7587,UTU Protocol,UTU,2020-11-04T00:00:00.000Z,Ethereum,0xa58a4f5c4bb043d2cc1e170613b74e767c94189b,1
+329,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2340,Bloom,BLT,2018-01-04T00:00:00.000Z,Ethereum,0x107c4504cd79c5d2696ea0030a8dd4e92601b82e,0
+330,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2507,THEKEY,TKY,2018-02-07T00:00:00.000Z,Neo,132947096727c84c7f9e076c90f08fec3bc17f18,1
+331,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2209,Ink,INK,2017-11-20T00:00:00.000Z,None,None,1
+332,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2546,Remme,REM,2018-02-26T00:00:00.000Z,Ethereum,0x83984d6142934bb535793a82adb0a46ef0f66b6d,1
+333,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,2271,Verify,CRED,2017-12-14T00:00:00.000Z,Ethereum,0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd,0
+334,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,11348,Identity,IDTT,2021-08-21T00:00:00.000Z,Ethereum,0x6fB1E018f107d3352506c23777e4cd62e063584a,1
+335,6051a82266fc1b42617d6dc3,Identity,Identity,Identity,18,1096216612.69,10973,PureFi Protocol,UFI,2021-07-20T00:00:00.000Z,Ethereum,0xcDa4e840411C00a614aD9205CAEC807c7458a0E3,1
+336,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,8271,Poolz Finance,POOLZ,2021-01-18T00:00:00.000Z,Ethereum,0x69a95185ee2a045cdc4bcd1b1df10710395e4e23,1
+337,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,4228,Ferrum Network,FRM,2019-08-08T00:00:00.000Z,Ethereum,0xe5caef4af8780e59df925470b050fb23c43ca68c,1
+338,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,9176,RocketX exchange,RVF,2021-04-13T00:00:00.000Z,Ethereum,0xdc8af07a7861bedd104b8093ae3e9376fc8596d2,1
+339,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,11978,Revolve Games,RPG,2021-09-20T17:19:33.000Z,BNB Smart Chain (BEP20),0x01E0d17a533E5930A349C2BB71304F04F20AB12B,1
+340,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,7931,Bondly,BONDLY,2020-12-09T00:00:00.000Z,Ethereum,0x91dfbee3965baaee32784c2d546b7a0c62f268c9,1
+341,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,9155,Digital Fitness,DEFIT,2021-04-07T00:00:00.000Z,Ethereum,0x84cffa78b2fbbeec8c37391d2b12a04d2030845e,1
+342,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,9053,UREEQA,URQA,2021-03-31T00:00:00.000Z,Ethereum,0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136,1
+343,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,12622,FOMO Chronicles Manga,OTAKU,2021-10-11T19:34:33.000Z,BNB Smart Chain (BEP20),0x484215873a674f9af73367a8f94c2c591e997521,1
+344,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,13449,GameStation,GAMER,2021-10-28T04:44:09.000Z,Polygon,0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47,1
+345,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,12417,Lovelace World,LACE,2021-11-23T15:17:32.000Z,BNB Smart Chain (BEP20),0xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73,1
+346,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,10712,Flourishing AI,AI,2021-06-29T00:00:00.000Z,BNB Smart Chain (BEP20),0xA9b038285F43cD6fE9E16B4C80B4B9bCcd3C161b,1
+347,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,14490,Bit Hotel,BTH,2021-11-15T05:21:20.000Z,BNB Smart Chain (BEP20),0x57bc18f6177cdaffb34ace048745bc913a1b1b54,1
+348,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,10714,Babylons,BABI,2021-06-30T00:00:00.000Z,BNB Smart Chain (BEP20),0xec15a508a187e8ddfe572a5423faa82bbdd65120,1
+349,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,17589,Animal Concerts,ANML,2022-01-24T08:02:12.000Z,Ethereum,0x38b0e3a59183814957d83df2a97492aed1f003e2,1
+350,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,9954,Netvrk,NTVRK,2021-05-20T00:00:00.000Z,Ethereum,0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a,1
+351,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,14053,GovWorld,GOV,2021-11-08T06:46:04.000Z,BNB Smart Chain (BEP20),0xcc7a91413769891de2e9ebbfc96d2eb1874b5760,1
+352,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,14955,GOinfluencer,GOIN,2021-11-22T07:23:40.000Z,BNB Smart Chain (BEP20),0x32ff208a18A5fbC81F6Fd262020b1415bfcb3b33,1
+353,618d78728b4c474d390bab72,Ferrum Network,Ferrum Network,Ferrum Network,18,34486636.67,13871,TaleCraft,CRAFT,2021-11-26T15:37:04.000Z,Avalanche C-Chain,0x8ae8be25c23833e0a01aa200403e826f611f9cd2,1
+354,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,2010,Cardano,ADA,2017-10-01T00:00:00.000Z,None,None,1
+355,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,4030,Algorand,ALGO,2019-06-20T00:00:00.000Z,None,None,1
+356,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,3513,Fantom,FTM,2018-10-29T00:00:00.000Z,None,None,1
+357,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,4948,Nervos Network,CKB,2019-11-19T00:00:00.000Z,None,None,1
+358,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,7334,Conflux,CFX,2020-11-11T00:00:00.000Z,None,None,1
+359,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,3218,Energi,NRG,2018-08-23T00:00:00.000Z,None,None,1
+360,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,201,Einsteinium,EMC2,2014-04-09T00:00:00.000Z,None,None,1
+361,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,333,Curecoin,CURE,2014-05-26T00:00:00.000Z,None,None,1
+362,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,2478,CoinFi,COFI,2018-01-29T00:00:00.000Z,Ethereum,0x3136ef851592acf49ca4c825131e364170fa32b3,1
+363,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,4469,MineBee,MB,2019-09-09T00:00:00.000Z,Ethereum,0x8d8129963291740dddd917ab01af18c7aed4ba58,0
+364,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,4676,MEXC Token,MEXC,2019-09-19T00:00:00.000Z,Ethereum,0x7de2d123042994737105802d2abd0a10a7bde276,0
+365,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,2325,Matryx,MTX,2017-12-30T00:00:00.000Z,Ethereum,0x0af44e2784637218dd1d32a322d44e603a8f0c6a,1
+366,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,2112,Phoenix Global [old],PHX,2017-10-08T00:00:00.000Z,Neo,1578103c13e39df15d0d29826d957e85d770d8c9,1
+367,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,2208,EncrypGen,DNA,2017-11-20T00:00:00.000Z,Ethereum,0xef6344de1fcfC5F48c30234C16c1389e8CdC572C,1
+368,6051a82866fc1b42617d6dca,Research,Research,Research,17,41276410230.14001,10035,Teslafan,TESLF,2021-05-24T00:00:00.000Z,Ethereum,0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461,1
+369,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,11289,Spell Token,SPELL,2021-08-17T00:00:00.000Z,Ethereum,0x090185f2135308bad17527004364ebcc2d37e5f6,1
+370,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,8613,Alchemix,ALCX,2021-02-27T00:00:00.000Z,Ethereum,0xdbdb4d16eda451d0503b854cf79d55697f90c8df,1
+371,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,2273,Uquid Coin,UQC,2017-12-13T00:00:00.000Z,Ethereum,0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2,1
+372,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,9067,Olympus v2,OHM,2021-04-01T00:00:00.000Z,Ethereum,0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5,1
+373,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,11585,Wonderland,TIME,2021-09-02T22:45:00.000Z,Avalanche C-Chain,0xb54f16fB19478766A268F172C9480f8da1a7c9C3,1
+374,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,14970,8ight Finance,EIGHT,2021-11-22T10:49:01.000Z,Harmony,0xcda2fdeee5c382e401c04dc929e53ababf6c8109,1
+375,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,11202,Tokemak,TOKE,2021-08-09T00:00:00.000Z,None,None,1
+376,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,15074,NidhiDAO,GURU,2021-11-24T00:56:09.000Z,Polygon,0x057E0bd9B797f9Eeeb8307B35DbC8c12E534c41E,1
+377,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,15379,Tempo DAO,TEMPO,2021-11-30T08:31:52.000Z,Avalanche C-Chain,0x88a425b738682f58c0ff9fcf2cceb47a361ef4cf,1
+378,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,14492,Nemesis DAO,NMS,2021-11-15T06:15:11.000Z,BNB Smart Chain (BEP20),0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3,1
+379,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,12873,KlimaDAO,KLIMA,2021-10-19T05:33:56.000Z,Polygon,0x4e78011ce80ee02d2c3e649fb657e45898257815,1
+380,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,13881,Hector Finance,HEC,2021-11-04T03:13:20.000Z,Fantom,0x5c4fdfc5233f935f20d2adba572f770c2e377ab0,1
+381,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,16052,TempleDAO,TEMPLE,2021-12-14T18:08:45.000Z,Ethereum,0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7,1
+382,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,12703,Gyro,GYRO,2021-10-14T05:39:55.000Z,BNB Smart Chain (BEP20),0x1b239abe619e74232c827fbe5e49a4c072bd869d,1
+383,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,15398,Rome,ROME,2021-12-01T01:59:18.000Z,Moonriver,0x4a436073552044d5f2f49b176853ad3ad473d9d6,1
+384,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,15289,Life DAO,LF,2021-11-29T09:43:10.000Z,Avalanche C-Chain,0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8,1
+385,619724627efba823f81dbf9e,DeFi 2.0,DeFi 2.0,DeFi 2.0,17,534253546.86,15249,Cerberus,3DOG,2021-11-29T01:32:28.000Z,Ethereum,0x8a14897ea5f668f36671678593fae44ae23b39fb,0
+386,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,1720,IOTA,MIOTA,2017-06-13T00:00:00.000Z,None,None,1
+387,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2132,Powerledger,POWR,2017-11-01T00:00:00.000Z,Ethereum,0x595832f8fc6bf59c85c527fec3740a1b7a361269,1
+388,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,9523,PKT,PKT,2021-05-01T00:00:00.000Z,None,None,1
+389,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,11423,vEmpire DDAO,VEMP,2021-08-26T22:25:37.000Z,Ethereum,0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec,1
+390,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2458,Odyssey,OCN,2018-01-24T00:00:00.000Z,Ethereum,0x4092678e4E78230F46A1534C0fbc8fA39780892B,1
+391,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,7587,UTU Protocol,UTU,2020-11-04T00:00:00.000Z,Ethereum,0xa58a4f5c4bb043d2cc1e170613b74e767c94189b,1
+392,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,1984,Substratum,SUB,2017-09-25T00:00:00.000Z,Ethereum,0x8D75959f1E61EC2571aa72798237101F084DE63a,1
+393,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2537,Gems ,GEM,2018-02-20T00:00:00.000Z,Ethereum,0xc7bba5b765581efb2cdd2679db5bea9ee79b201f,1
+394,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2172,Emphy,EPY,2017-11-11T00:00:00.000Z,Ethereum,0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d,0
+395,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,8418,CryptoTask,CTASK,2021-02-09T00:00:00.000Z,Ethereum,0x196c81385bc536467433014042788eb707703934,1
+396,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2177,Sharechain,SSS,2017-11-14T00:00:00.000Z,Ethereum,0x7d3e7d41da367b4fdce7cbe06502b13294deb758,0
+397,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2557,Bee Token,BEE,2018-03-02T00:00:00.000Z,Ethereum,0x4d8fc1453a0f359e99c9675954e656d80d996fbf,0
+398,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2953,Blue Whale EXchange,BWX,2018-07-23T00:00:00.000Z,Ethereum,0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b,1
+399,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2180,bitJob,STU,2017-11-15T00:00:00.000Z,Ethereum,0x0371a82e4a9d0a4312f3ee2ac9c6958512891372,0
+400,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2352,Coinlancer,CL,2018-01-09T00:00:00.000Z,Ethereum,0xe81d72d14b1516e68ac3190a46c93302cc8ed60f,0
+401,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2343,CanYaCoin,CAN,2018-01-07T00:00:00.000Z,BNB Beacon Chain (BEP2),CAN-677,1
+402,6051a82a66fc1b42617d6dcd,Sharing Economy,Sharing Economy,Sharing Economy,17,2185473085.4899993,2287,LockTrip,LOC,2017-12-17T00:00:00.000Z,Ethereum,0x5e3346444010135322268a4630d2ed5f8d09446c,1
+403,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2320,Utrust,UTK,2017-12-29T00:00:00.000Z,Ethereum,0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c,1
+404,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,4807,CertiK,CTK,2019-10-19T00:00:00.000Z,None,None,1
+405,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2630,PolySwarm,NCT,2018-04-10T00:00:00.000Z,Ethereum,0x9e46a38f5daabe8683e10793b06749eef7d733d1,1
+406,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2212,Quantstamp,QSP,2017-11-21T00:00:00.000Z,Ethereum,0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d,1
+407,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,10103,Lossless,LSS,2021-05-27T00:00:00.000Z,Ethereum,0x3b9be07d622accaed78f479bc0edabfd6397e320,1
+408,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,5583,Hacken Token,HAI,2020-05-13T00:00:00.000Z,BNB Smart Chain (BEP20),0xaa9e582e5751d703f85912903bacaddfed26484c,1
+409,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,3845,VIDT Datalink,VIDT,2019-04-05T00:00:00.000Z,Ethereum,0xfeF4185594457050cC9c23980d301908FE057Bb1,1
+410,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,8567,HAPI Protocol,HAPI,2021-02-23T00:00:00.000Z,Ethereum,0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54,1
+411,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2559,Cube,AUTO,2018-03-03T00:00:00.000Z,Ethereum,0x622dFfCc4e83C64ba959530A5a5580687a57581b,0
+412,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2360,[Deprecated] Hacken,HKN,2018-01-10T00:00:00.000Z,Ethereum,0x9e6b2b11542f2bc52f3029077ace37e8fd838d7f,0
+413,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2534,Gladius Token,GLA,2018-02-17T00:00:00.000Z,Ethereum,0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C,0
+414,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,2546,Remme,REM,2018-02-26T00:00:00.000Z,Ethereum,0x83984d6142934bb535793a82adb0a46ef0f66b6d,1
+415,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,14489,CheckDot,CDT,2021-11-15T05:18:48.000Z,BNB Smart Chain (BEP20),0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE,1
+416,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,12818,gotEM,GOTEM,2021-10-17T21:27:33.000Z,BNB Smart Chain (BEP20),0xa5fbc3520dd4bb85fcd175e1e3b994546a2c1ee8,1
+417,6051a80366fc1b42617d6d9a,Cybersecurity,Cybersecurity,Cybersecurity,17,400870294.65000004,3712,Cloudbric,CLBK,2019-01-29T00:00:00.000Z,Klaytn,0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1,1
+418,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+419,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,6636,Polkadot,DOT,2020-08-19T00:00:00.000Z,None,None,1
+420,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,7083,Uniswap,UNI,2020-09-17T00:00:00.000Z,Ethereum,0x1f9840a85d5af5bf1d1762f925bdaddc4201f984,1
+421,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,2280,Filecoin,FIL,2017-12-13T00:00:00.000Z,None,None,1
+422,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,7278,Aave,AAVE,2020-10-02T00:00:00.000Z,Ethereum,0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9,1
+423,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,4847,Stacks,STX,2019-10-28T00:00:00.000Z,None,None,1
+424,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,5632,Arweave,AR,2020-05-27T00:00:00.000Z,None,None,1
+425,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,7653,Oasis Network,ROSE,2020-11-12T00:00:00.000Z,Ethereum,0x26B80FBfC01b71495f477d5237071242e0d959d7,1
+426,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,5864,yearn.finance,YFI,2020-07-18T00:00:00.000Z,Ethereum,0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e,1
+427,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,8104,1inch Network,1INCH,2020-12-25T00:00:00.000Z,Ethereum,0x111111111117dc0aa78b770fa6a738034120c302,1
+428,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,1896,0x,ZRX,2017-08-16T00:00:00.000Z,Ethereum,0xe41d2489571d322189246dafa5ebde1f4699f498,1
+429,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,5617,UMA,UMA,2020-05-25T00:00:00.000Z,Ethereum,0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828,1
+430,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,6758,SushiSwap,SUSHI,2020-08-28T00:00:00.000Z,Ethereum,0x6b3595068778dd592e39a122f4f5a5cf09c90fe2,1
+431,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,5026,Orchid,OXT,2019-12-16T00:00:00.000Z,Ethereum,0x4575f41308EC1483f3d399aa9a2826d74Da13Deb,1
+432,605e2967d41eae1066535f70,Blockchain Capital Portfolio,Blockchain Capital Portfolio,Blockchain Capital Portfolio,17,410115167633.19995,7859,Badger DAO,BADGER,2020-12-04T00:00:00.000Z,Ethereum,0x3472a5a71965499acd81997a54bba8d852c6e53d,1
+433,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,8660,BSCPAD,BSCPAD,2021-03-03T00:00:00.000Z,BNB Smart Chain (BEP20),0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700,1
+434,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,11349,ADAPad,ADAPAD,2021-08-21T00:00:00.000Z,Ethereum,0xdb0170e2d0c1cc1b2e7a90313d9b9afa4f250289,1
+435,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,11354,WagyuSwap,WAG,2021-08-23T00:00:00.000Z,Ethereum,0x7FA7dF4996AC59F398476892cfB195eD38543520,1
+436,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,11871,GameZone,GZONE,2021-09-14T01:07:06.000Z,Ethereum,0xb6adb74efb5801160ff749b1985fd3bd5000e938,1
+437,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,10784,KCCPAD,KCCPAD,2021-07-13T00:00:00.000Z,BNB Smart Chain (BEP20),0x11582Ef4642B1e7F0a023804B497656E2663bC9B,1
+438,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,12120,AstroSwap,ASTRO,2021-09-24T07:25:08.000Z,BNB Smart Chain (BEP20),0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27,1
+439,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,12416,PulsePad,PLSPAD,2021-11-10T15:00:24.000Z,Ethereum,0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a,1
+440,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,11654,VelasPad,VLXPAD,2021-09-06T05:28:01.000Z,Ethereum,0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0,1
+441,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,11298,CrossSwap,CSWAP,2021-08-18T00:00:00.000Z,Ethereum,0xe0b0C16038845BEd3fCf70304D3e167Df81ce225,1
+442,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,10277,TRONPAD,TRONPAD,2021-06-04T00:00:00.000Z,BNB Smart Chain (BEP20),0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4,1
+443,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,11350,NFTLaunch,NFTL,2021-08-22T00:00:00.000Z,Ethereum,0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD,1
+444,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,10530,CrossWallet,CWT,2021-06-21T00:00:00.000Z,BNB Smart Chain (BEP20),0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D,1
+445,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,13250,Velhalla,SCAR,2021-11-16T15:35:40.000Z,BNB Smart Chain (BEP20),0x8d9fB713587174Ee97e91866050c383b5cEE6209,1
+446,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,19100,NeoFi,NEOFI,2022-03-28T02:40:34.000Z,None,None,1
+447,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,12255,BitOrbit,BITORB,2021-10-02T05:49:34.000Z,BNB Smart Chain (BEP20),0xEd0c1C9c64Ff7C7cC37c3AF0dfcf5B02eFE0Bb5f,1
+448,619504a2f0cc180d721c639a,BlueZilla,BlueZilla,BlueZilla,17,76392045.56000002,13978,MetaVPad,METAV,2021-12-10T15:02:45.000Z,Ethereum,0x62858686119135cc00C4A3102b436a0eB314D402,1
+449,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,8526,Raydium,RAY,2021-02-19T00:00:00.000Z,Ethereum,0x5245c0249e5eeb2a0838266800471fd32adb1089,1
+450,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,11212,Star Atlas,ATLAS,2021-08-11T00:00:00.000Z,Solana,ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx,1
+451,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,11213,Star Atlas DAO,POLIS,2021-08-11T00:00:00.000Z,Solana,poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk,1
+452,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,9741,Solanium,SLIM,2021-05-12T00:00:00.000Z,Solana,xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW,1
+453,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,10527,Lithium,LITH,2021-06-20T00:00:00.000Z,Ethereum,0x188e817b02e635d482ae4d81e25dda98a97c4a42,1
+454,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,10891,Only1,LIKE,2021-07-14T00:00:00.000Z,Solana,3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR,1
+455,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,9443,Step Finance,STEP,2021-04-26T00:00:00.000Z,Solana,StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT,1
+456,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,10429,HaloDAO,RNBW,2021-06-15T00:00:00.000Z,Ethereum,0xe94b97b6b43639e238c851a7e693f50033efd75c,1
+457,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,11935,Parrot Protocol,PRT,2021-09-16T23:34:30.000Z,Solana,PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44,1
+458,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,10935,Aldrin,RIN,2021-07-16T00:00:00.000Z,Solana,E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp,1
+459,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,15664,BlockchainSpace,GUILD,2021-12-06T11:57:32.000Z,Ethereum,0x83e9f223e1edb3486f876ee888d76bfba26c475a,1
+460,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,11888,Matrix Labs,MATRIX,2021-09-15T15:46:23.000Z,Ethereum,0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36,1
+461,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,10217,Cyclos,CYS,2021-06-02T00:00:00.000Z,Solana,BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg,1
+462,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,9388,Sienna,SIENNA,2021-04-20T00:00:00.000Z,None,None,1
+463,60cabf685ecd03675c87833a,PetRock Capital Portfolio,PetRock Capital Portfolio,PetRock Capital Portfolio,16,407404760.51,10424,Volatility Protocol Token,VOL,2021-06-15T00:00:00.000Z,Ethereum,0x5166E09628b696285E3A151e84FB977736a83575,1
+464,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,11480,LaunchZone,LZ,2021-08-30T07:49:24.000Z,BNB Smart Chain (BEP20),0x3b78458981eb7260d1f781cb8be2caac7027dbe2,1
+465,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,12172,Moniwar,MOWA,2021-09-27T12:09:07.000Z,BNB Smart Chain (BEP20),0x411Ec510c85C9e56271bF4E10364Ffa909E685D9,1
+466,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,14136,Zuki Moba,ZUKI,2021-11-09T05:55:26.000Z,BNB Smart Chain (BEP20),0xe81257d932280ae440b17afc5f07c8a110d21432,1
+467,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,11067,Step Hero,HERO,2021-08-16T00:00:00.000Z,BNB Smart Chain (BEP20),0xE8176d414560cFE1Bf82Fd73B986823B89E4F545,1
+468,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,9259,TheForce Trade,FOC,2021-04-12T00:00:00.000Z,BNB Smart Chain (BEP20),0x3051CFb958dcD408FBa70256073Adba943Fdf552,1
+469,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,11605,HeroFi,HEROEGG,2021-09-03T18:15:05.000Z,BNB Smart Chain (BEP20),0xcfBb1BfA710cb2ebA070CC3beC0C35226FeA4BAF,1
+470,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,13216,Ninneko,NINO,2021-10-26T01:11:56.000Z,BNB Smart Chain (BEP20),0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90,1
+471,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,13045,Heron Asia,HERON,2021-10-23T12:39:15.000Z,BNB Smart Chain (BEP20),0x90451265fd0598e088e42c1768d6211f0978954a,1
+472,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,15703,Crypto Piece,BELLY,2021-12-07T00:35:36.000Z,BNB Smart Chain (BEP20),0x3dfa90540ccdc77d543e6e61cacd5880f5c62391,1
+473,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,13164,HeroFi (ROFI),ROFI,2021-10-25T08:55:07.000Z,BNB Smart Chain (BEP20),0x3244b3b6030f374bafa5f8f80ec2f06aaf104b64,1
+474,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,13236,Galaxy War,GWT,2021-10-26T03:41:43.000Z,BNB Smart Chain (BEP20),0x552594612f935441c01c6854edf111f343c1ca07,1
+475,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,10340,BscArmy,BARMY,2021-06-08T00:00:00.000Z,BNB Smart Chain (BEP20),0x2c80bc9bfa4ec680efb949c51806bddee5ac8299,0
+476,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,12252,Bombcrypto,BCOIN,2021-10-01T15:13:22.000Z,BNB Smart Chain (BEP20),0x00e1656e45f18ec6747F5a8496Fd39B50b38396D,1
+477,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,16846,0xPAD,0XPAD,2022-01-04T19:31:15.000Z,BNB Smart Chain (BEP20),0x94733910a43D412DDaD505a8772839AA77aC1b6d,1
+478,61750b1722be322513caa85e,LaunchZone,LaunchZone,LaunchZone,16,3549565.77,14357,The Dynasty,DYT,2021-11-11T13:31:00.000Z,BNB Smart Chain (BEP20),0x1802a63EFe3255aBC3004F8e63047dB96300bd1c,1
+479,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1,Bitcoin,BTC,2013-04-28T00:00:00.000Z,None,None,1
+480,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1027,Ethereum,ETH,2015-08-07T00:00:00.000Z,None,None,1
+481,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,6636,Polkadot,DOT,2020-08-19T00:00:00.000Z,None,None,1
+482,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1437,Zcash,ZEC,2016-10-29T00:00:00.000Z,None,None,1
+483,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1518,Maker,MKR,2017-01-29T00:00:00.000Z,Ethereum,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,1
+484,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1168,Decred,DCR,2016-02-10T00:00:00.000Z,None,None,1
+485,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,5830,NXM,NXM,2020-07-20T00:00:00.000Z,Ethereum,0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b,1
+486,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1896,0x,ZRX,2017-08-16T00:00:00.000Z,Ethereum,0xe41d2489571d322189246dafa5ebde1f4699f498,1
+487,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,5617,UMA,UMA,2020-05-25T00:00:00.000Z,Ethereum,0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828,1
+488,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1680,Aragon,ANT,2017-05-18T00:00:00.000Z,Ethereum,0xa117000000f279d81a1d3cc75430faa017fa5a2e,1
+489,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1732,Numeraire,NMR,2017-06-23T00:00:00.000Z,Ethereum,0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671,1
+490,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,7737,API3,API3,2020-11-21T00:00:00.000Z,Ethereum,0x0b38210ea11411557c13457D4dA7dC6ea731B88a,1
+491,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,6843,Radicle,RAD,2020-09-01T00:00:00.000Z,None,None,1
+492,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,1552,Enzyme,MLN,2017-02-21T00:00:00.000Z,Ethereum,0xec67005c4e498ec7f55e092bd1d35cbc47c91892,1
+493,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,5728,Balancer,BAL,2020-06-24T00:00:00.000Z,Ethereum,0xba100000625a3754423978a60c9317c58a424e3D,1
+494,605e2e0bd41eae1066535f7e,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,Placeholder Ventures Portfolio,16,1180941872644.76,3631,FOAM,FOAM,2018-12-11T00:00:00.000Z,Ethereum,0x4946fcea7c692606e8908002e55a582af44ac121,1
+495,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,7055,DeFi Pulse Index,DPI,2020-09-15T00:00:00.000Z,Ethereum,0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b,1
+496,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,7874,PieDAO DEFI++,DEFI++,2020-12-07T00:00:00.000Z,Ethereum,0x8d1ce361eb68e9e05573443c407d4a3bed23b033,1
+497,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,7368,Power Index Pool Token,PIPT,2020-10-10T00:00:00.000Z,Ethereum,0x26607ac599266b21d13c7acf7942c7701a8b699c,1
+498,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,8699,DEGEN Index,DEGEN,2021-03-04T00:00:00.000Z,Ethereum,0x126c121f99e1e211df2e5f8de2d96fa36647c855,1
+499,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,8887,Cryptocurrency Top 10 Tokens Index,CC10,2021-03-19T00:00:00.000Z,Ethereum,0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3,0
+500,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,9207,Metaverse Index,MVI,2021-04-13T00:00:00.000Z,Ethereum,0x72e364f2abdc788b7e918bc238b21f109cd634d7,1
+501,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,7337,PieDAO DEFI Large Cap,DEFI+L,2020-10-08T00:00:00.000Z,Ethereum,0x78f225869c08d478c34e5f645d07a87d3fe8eb78,1
+502,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,10431,Future Of Finance Fund,FFF,2021-06-15T00:00:00.000Z,Ethereum,0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413,0
+503,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,7939,Yearn Ecosystem Token Index,YETI,2020-12-10T00:00:00.000Z,Ethereum,0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D,0
+504,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,8889,Oracle Top 5 Tokens Index,ORCL5,2021-03-19T00:00:00.000Z,Ethereum,0xd6cb2adf47655b1babddc214d79257348cbc39a7,0
+505,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,8430,DEFI Top 5 Tokens Index,DEFI5,2021-02-12T00:00:00.000Z,Ethereum,0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41,0
+506,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,8888,ASSY Index,ASSY,2021-03-19T00:00:00.000Z,Ethereum,0xFA2562da1Bba7B954f26C74725dF51fb62646313,0
+507,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,8324,PieDAO Yearn Ecosystem Pie,YPIE,2021-01-25T00:00:00.000Z,Ethereum,0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31,0
+508,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,5862,sDEFI,SDEFI,2020-08-10T00:00:00.000Z,Ethereum,0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B,0
+509,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,7314,PieDAO DEFI Small Cap,DEFI+S,2020-10-06T00:00:00.000Z,Ethereum,0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c,1
+510,6053dd976be1bf5c15e865ea,DeFi Index,DeFi Index,DeFi Index,16,100739339.35999998,5860,iDeFi,IDEFI,2020-08-11T00:00:00.000Z,Ethereum,0x14d10003807AC60d07BB0ba82cAeaC8d2087c157,0
+511,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,2297,StormX,STMX,2017-12-20T00:00:00.000Z,Ethereum,0xbE9375C6a420D2eEB258962efB95551A5b722803,1
+512,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,2930,Everipedia,IQ,2018-10-03T00:00:00.000Z,EOS,everipediaiq,1
+513,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,3946,Carry,CRE,2019-05-17T00:00:00.000Z,Ethereum,0x115eC79F1de567eC68B7AE7eDA501b406626478e,1
+514,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,2289,Gifto,GTO,2017-12-18T00:00:00.000Z,BNB Beacon Chain (BEP2),GTO-908,1
+515,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,1948,Aventus,AVT,2017-09-06T00:00:00.000Z,Ethereum,0x0d88ed6e74bbfd96b831231638b66c05571e824f,1
+516,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,8484,Olyseum,OLY,2021-02-16T00:00:00.000Z,Ethereum,0x6595b8fd9c920c81500dca94e53cdc712513fb1f,1
+517,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,1475,Incent,INCNT,2016-12-07T00:00:00.000Z,None,None,0
+518,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,6156,Donut,DONUT,2020-08-04T00:00:00.000Z,Ethereum,0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9,1
+519,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,4253,CryptoBonusMiles,CBM,2019-09-03T00:00:00.000Z,BNB Beacon Chain (BEP2),CBM-4B2,1
+520,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,1722,More Coin,MORE,2017-06-16T00:00:00.000Z,Ethereum,0x305DE070488C8469dFAC957226c9c900c4BFbA22,1
+521,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,2560,EZToken,EZT,2018-03-05T00:00:00.000Z,Ethereum,0x5e6016ae7d7c49d347dcf834860b9f3ee282812b,0
+522,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,4049,Bitbook Gambling,BXK,2019-06-24T00:00:00.000Z,Ethereum,0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b,0
+523,6051a81c66fc1b42617d6dba,Loyalty,Loyalty,Loyalty,16,448101876.84,1403,FirstBlood,1ST,2016-09-28T00:00:00.000Z,Ethereum,0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7,0
