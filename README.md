@@ -31,6 +31,8 @@ ___
 
 ![png](images/cat_live_bar.png)
 
+![png](images/live_coins_bar.png)
+
 ![png](images/cat_dead_coins_bar.png)
 
 ![png](images/cat_dead_coins_pie.png)
