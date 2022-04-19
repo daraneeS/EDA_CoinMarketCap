@@ -33,6 +33,7 @@ ___
 
 ![png](images/cat_dead_coins_pie.png)
 
+![png](images/cat_live_bar.png)
 ___
 
 ## Possible Application
