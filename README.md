@@ -13,7 +13,7 @@
 * *Category Endpoint*
 * *Categories Endpoint*
 * *Listing Latest Endpoint*
-
+![png](images/cmc_api_call.png)
 
 ## Visualization
 
