@@ -2,12 +2,9 @@
 
 ## Overview
 
-This project shows process of getting data from compliated API calls. 
-Some **JSON** files are complicated because of **nested dictionaries** 
-or **a list of nested dictionary**
-This project is able to get the **Inactive/Active Coins** listed on **CoinMarketCap API** and create **Pandas DataFrames**
-
-![png](images/btc_close_line.png)
+* This project shows process of getting data from compliated API calls. 
+* Some **JSON** files are complicated because of **nested dictionaries** or **a list of nested dictionary**
+* This project is able to get the **Inactive/Active Coins** listed on **CoinMarketCap API** 
 
 
 ## Data Source and Preparation
@@ -36,15 +33,11 @@ ___
 
 ![png](images/cat_dead_coins_pie.png)
 
-![png](images/cat_live_bar.png)
+___
 
 ## Possible Application
 
-* Help inform retail investors/users possible close price, ruturn , trend of Bitcoin and other cryptocurrency
-* The model can be developed to live prediction and with shorter timeframe, 4 hours, 1 hours as example
-* The model can be improved, modified and used with other cryptocurrency or stocks
+* See big picture of number of coins, categories, platforms in cryptocurrency market
+* Help retail investors/users whether or not to invest in coins which are in categrories/platforms that are most likely to be dead coins
 
-## Futher Improvement
-* Using other machine learning models to compare and improve accuracy of the prediction, such as XGBoost, Random Forest, Deep Learning/LSTM etc.
-* Adding more features such as VWAP, RSI, etc.
-* Shorter timeframe such as 4 hours, 1 hours, 30 minutes etc.
+
