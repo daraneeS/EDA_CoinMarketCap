@@ -24,14 +24,17 @@ This project is able to get the **Inactive/Active Coins** listed on **CoinMarket
 
 ![png](images/num_coins_2013_2022_pie.png)
 
-___________________________
-![png](images/platform_most_coins_pie.png)
-
 ![png](images/cat_most_coins.png)
 
-![png](images/cat_dead_coins_bar.png)
+___
+![png](images/platform_most_coins_bar.png)
+
+![png](images/platform_most_coins_pie.png)
+___
 
 ![png](images/cat_dead_coins_bar.png)
+
+![png](images/cat_dead_coins_pie.png)
 
 ![png](images/cat_live_bar.png)
 
