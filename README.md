@@ -13,23 +13,26 @@ This project is able to get the **Inactive/Active Coins** listed on **CoinMarket
 ## Data Source and Preparation
 
 **Three CoinMarketCap API endpoints**
-* **Category Endpoint**
-* **Categories Endpoint**
-* **Listing Latest Endpoint**
+* *Category Endpoint*
+* *Categories Endpoint*
+* *Listing Latest Endpoint*
 
 
 ## Visualization
 
-![png](images/btc_close_box.png)
+![png](images/num_coins_2013_2022.png)
 
-![png](images/btc_vol_line.png)
+![png](images/num_coins_2013_2022_pie.png)
 
-![png](images/btc_vol_box.png)
+![png](images/platform_most_coins_pie.png)
 
-![png](images/btc_trds_line.png)
+![png](images/cat_most_coins.png)
 
-![png](images/btc_trds_box.png)
+![png](images/cat_dead_coins_bar.png)
 
+![png](images/cat_dead_coins_bar.png)
+
+![png](images/cat_live_bar.png)
 
 ## Possible Application
 
