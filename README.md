@@ -29,11 +29,13 @@ ___
 ![png](images/platform_most_coins_pie.png)
 ___
 
+![png](images/cat_live_bar.png)
+
 ![png](images/cat_dead_coins_bar.png)
 
 ![png](images/cat_dead_coins_pie.png)
 
-![png](images/cat_live_bar.png)
+
 ___
 
 ## Possible Application
