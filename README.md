@@ -2,7 +2,8 @@
 
 ## Overview
 
-* This project shows process of getting data from compliated API calls. 
+This project attempts to get data from compliated API calls due to: 
+* Credits rate limit—333 credits/day, and 30 requests/minute for a CoinMarketCap basic account 
 * Some **JSON** files are complicated because of **nested dictionaries** or **a list of nested dictionary**
 * This project is able to get the **Inactive/Active Coins** listed on **CoinMarketCap API** 
 
@@ -10,9 +11,10 @@
 ## Data Source and Preparation
 
 **Three CoinMarketCap API endpoints**
-* *Category Endpoint*
-* *Categories Endpoint*
-* *Listing Latest Endpoint*
+* *Category Endpoint* About 10,000 coins
+* *Categories Endpoint*: 154 categories
+* *Listing Latest Endpoint*: About 10,000 coins
+
 ![png](images/cmc_api_call.png)
 
 ## Visualization
