@@ -5,7 +5,7 @@
 This project attempts to get data from compliated API calls due to: 
 * Credits rate limit—333 credits/day, and 30 requests/minute for a CoinMarketCap basic account 
 * Some **JSON** files are complicated because of **nested dictionaries** or **a list of nested dictionary**
-* This project is able to get the **Inactive/Active Coins** listed on **CoinMarketCap API** 
+This project is able to get the **Inactive/Active Coins** listed on **CoinMarketCap API** 
 
 
 ## Data Source and Preparation
