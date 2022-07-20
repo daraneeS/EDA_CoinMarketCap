@@ -10,7 +10,7 @@ The main goals of this project are:
 * Finding insights, possible actionable insights, and hopefully business application from the project
 
 
-## Data Source and Preparation
+## Data Source and Preparation :astonished:
 
 **Three CoinMarketCap API endpoints**
 * Category Endpoint: About 10,000 coins
@@ -18,7 +18,7 @@ The main goals of this project are:
 * Listing Latest Endpoint: About 10,000 coins
 * Data pulled in April 2022
 
-## Insights
+## Insights :fire:
 * 2021 has most coins listed on CoinMarketcap
 * Number of coins in 2021 alone is 50% of total coins listed since 2013
 * 2021 was the peek of crypto market
@@ -27,7 +27,7 @@ The main goals of this project are:
 * As of April 2022, more than half of Inactive coins are in BNB Chain Ecosystem!
 * BNB Chain, Memes, and Doggone Doggerel are three categories that have Inactive/Dead coins
 
-## Possible Application
+## Possible Application :fire:
 
 * See big picture of number of coins, categories, platforms in cryptocurrency market
 * Help retail investors/users whether or not to invest in coins which are in categrories/platforms that are most likely to be dead coins
