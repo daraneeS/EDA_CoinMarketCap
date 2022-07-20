@@ -30,7 +30,7 @@ The main goals of this project are:
 
 ## Possible Actionable Insights and Possible Business Application:fire:
 
-* See big picture of number of coins, categories, platforms in cryptocurrency market
+* See big picture trend in the cryptocurrency market
 * Help retail investors/users whether or not to invest in coins which are in categrories/platforms that are most likely to be dead coins
 * **Avoid investing in categories most dead coin!!**
 
