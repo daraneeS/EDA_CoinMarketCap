@@ -7,7 +7,7 @@ The main goals of this project are:
 * Creating my own dataset
 * Finding information from the dataset
 * Finding what machine learning model(s) could be used for the dataset
-* Finding insights, possible actionable insights, and hopefully business application from the dataset and the project
+* Finding insights, possible actionable insights, and hopefully business application from the project
 
 
 ## Data Source and Preparation
