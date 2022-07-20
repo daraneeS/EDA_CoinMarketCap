@@ -16,7 +16,13 @@ The main goals of this project are:
 * Category Endpoint: About 10,000 coins
 * Categories Endpoint: 154 categories
 * Listing Latest Endpoint: About 10,000 coins
-* Pull data in April 2022
+* Data pulled in April 2022
+
+
+## Possible Application
+
+* See big picture of number of coins, categories, platforms in cryptocurrency market
+* Help retail investors/users whether or not to invest in coins which are in categrories/platforms that are most likely to be dead coins
 
 ![png](images/cmc_api_call.png)
 
@@ -43,11 +49,5 @@ ___
 ![png](images/cat_dead_coins_pie.png)
 
 
-___
-
-## Possible Application
-
-* See big picture of number of coins, categories, platforms in cryptocurrency market
-* Help retail investors/users whether or not to invest in coins which are in categrories/platforms that are most likely to be dead coins
 
 
