@@ -2,7 +2,7 @@
 
 ## Overview
 
-This main goals of this project are:
+The main goals of this project are:
 * Getting data from API
 * Creating my own dataset
 * Finding information from the dataset
