@@ -2,22 +2,21 @@
 
 ## Overview
 
-This project attempts to get data from compliated API calls due to: 
-
-* Credits rate limit—333 credits/day, and 30 requests/minute for a CoinMarketCap basic account 
-* Some **JSON** files are complicated because of **nested dictionaries** or **a list of nested dictionary**
-
-This project is able to get the **Inactive/Active Coins** listed on **CoinMarketCap API** 
-
+This main goals of this project are:
+* Getting data from API
+* Creating my own dataset
+* Finding information from the dataset
+* Finding what machine learning model(s) could be used for the dataset
+* Finding posible insights, and hopefully actionable insights from the dataset and the project
 
 
 ## Data Source and Preparation
 
 **Three CoinMarketCap API endpoints**
-* *Category Endpoint* About 10,000 coins
-* *Categories Endpoint*: 154 categories
-* *Listing Latest Endpoint*: About 10,000 coins
-* *Pull data in April 2022*
+* Category Endpoint: About 10,000 coins
+* Categories Endpoint: 154 categories
+* Listing Latest Endpoint: About 10,000 coins
+* Pull data in April 2022
 
 ![png](images/cmc_api_call.png)
 
