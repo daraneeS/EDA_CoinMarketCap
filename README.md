@@ -36,7 +36,7 @@ The main goals of this project are:
 
 ___
 
-## Getting Data Behind the Scence (there're still a lot more!)
+## Getting Data Behind the Scenes (there're still a lot more!)
 
 ![png](images/cmc_api_call.png)
 
