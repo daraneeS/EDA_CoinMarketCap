@@ -17,6 +17,7 @@ This project is able to get the **Inactive/Active Coins** listed on **CoinMarket
 * *Category Endpoint* About 10,000 coins
 * *Categories Endpoint*: 154 categories
 * *Listing Latest Endpoint*: About 10,000 coins
+* *Pull data in April 2022*
 
 ![png](images/cmc_api_call.png)
 
