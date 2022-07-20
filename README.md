@@ -34,6 +34,9 @@ The main goals of this project are:
 * Help retail investors/users whether or not to invest in coins which are in categrories/platforms that are most likely to be dead coins
 * **Avoid investing in categories most dead coin!!**
 
+___
+
+## Getting Data Behind the Scence (there're still a lot more!)
 ![png](images/cmc_api_call.png)
 
 ## Visualization
