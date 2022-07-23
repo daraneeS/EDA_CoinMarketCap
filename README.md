@@ -22,7 +22,7 @@ The main goals of this project are:
 * 2021 has most coins listed on CoinMarketcap
 * **Number of coins in 2021 alone is 50% of total coins listed since 2013**
 * 2021 was the peek of crypto market
-* **BNB chain and NFTs are categories that have most coins**
+* **BNB chain, NFTs, and DeFi are categories that have most coins**
 * Ethereum and BNB Smart Chain are platforms that have most coins 
 * **As of April 2022, more than half of Inactive coins are in BNB Chain Ecosystem!**
 * **BNB Chain, Memes, and Doggone Doggerel are three categories that have most Inactive/Dead coins**
