@@ -20,7 +20,7 @@ The main goals of this project are:
 
 ## Insights :fire:
 * 2021 has most coins listed on CoinMarketcap
-* Number of coins in 2021 alone is 50% of total coins listed since 2013
+* **Number of coins in 2021 alone is 50% of total coins listed since 2013**
 * 2021 was the peek of crypto market
 * BNB chain and NFTs are categories that have most coins
 * Ethereum and BNB Smart Chain are platforms that have most coins 
